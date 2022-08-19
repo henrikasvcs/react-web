@@ -1,0 +1,14 @@
+.navbaras{
+    width: 100%;
+    display: flex;
+    justify-content: space-around!important;
+    height: 60px;
+    background-color: black;
+}
+
+.link-item{
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+}
